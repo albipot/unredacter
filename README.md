@@ -29,3 +29,5 @@ This is a bit manual and not at all streamlined. I think you'll see why. If some
 4) Determine what character set you want to try. It's at the top of `preload.ts`.
 
 5) Press the go button and see if it works!
+![5314411942036760972](https://github.com/user-attachments/assets/c2c0dbfe-9a04-4020-b0e2-c47eebcb0d7d)
+![a4c47c64-c33c-4294-8e49-2152107c358b](https://github.com/user-attachments/assets/9abe6633-b320-43bd-8e49-925d173d472b)
